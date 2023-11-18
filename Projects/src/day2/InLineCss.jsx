@@ -1,6 +1,6 @@
 import React from "react";
 
-const App = () => {
+const AppCss = () => {
     return(
         <div style = {{backgroundColor : "lightblue", padding : "10 px" , border : "1px solid blue" , borderRadius : "5px"}}>
             <h1 style = {{color : "green"}}>InLine Style in CSS Example</h1>
@@ -9,4 +9,4 @@ const App = () => {
     );
 }
 
-export default App
+export default AppCss;
